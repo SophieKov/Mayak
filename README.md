@@ -1,0 +1,2 @@
+# Mayak
+Just studying
